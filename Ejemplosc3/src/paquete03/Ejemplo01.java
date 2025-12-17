@@ -14,7 +14,7 @@ public class Ejemplo01 {
     public static void main(String[] args) {
         double[][] notas = {{9, 10, 7, 8}, 
                             {0, 0, 0, 9}, 
-                            {10, 9.4, 10, 9}};
+                            {7, 9.4, 10, 9}};
         String[] nombresEstudiante = {"Jose A", "Elena J", "Paúl L"};
         double[] sumaNotas = new double[3];
         String[] promedioNotasCualitativas = new String[3];
